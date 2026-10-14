@@ -1,0 +1,44 @@
+{
+  "revision": "V2",
+  "visual_direction": "Hybrid CGI and vector motion; client granted full creative freedom",
+  "visual_sources": "All CGI geometry, studio lighting, paper textures and reflections generated in editable code",
+  "product_reference": "https://centrix.company/",
+  "assets": [
+    {
+      "path": "assets/centrix_voice_original.mp3",
+      "provenance": "Exact user supplied narration, 23.712 seconds",
+      "bytes": 474285,
+      "sha256": "fccd6397f7194a8d85bd4802b60dd311edf5f2376c00596299fe20ffb2cbf6c2"
+    },
+    {
+      "path": "assets/centrix_logo_original.svg",
+      "provenance": "Exact user supplied complete SVG artwork",
+      "bytes": 1354334,
+      "sha256": "428b1ff3559dd0d2e10e1f2165c861a29fcce4830aa4ec6bf952215aeece16af"
+    },
+    {
+      "path": "public/fonts/Cairo.ttf",
+      "provenance": "Unchanged Cairo variable font; redistribution allowed by included SIL OFL 1.1",
+      "bytes": 599548,
+      "sha256": "667c987182391c91f4e57a2f455b1794fb5e3ee6ca4ef3383e86bb690fa9c964"
+    },
+    {
+      "path": "output/V2/audio/Centrix_Music_Original.wav",
+      "provenance": "New original procedural 108 BPM cinematic-electronic composition; no samples",
+      "bytes": 10368044,
+      "sha256": "455f525929053e80fa020a820cfc8c46580d0a14ef6588577610ca7853bbc917"
+    },
+    {
+      "path": "output/V2/audio/Centrix_SFX_Stem.wav",
+      "provenance": "New original procedural cue-specific effects; no samples",
+      "bytes": 10368044,
+      "sha256": "7c704b23ea8d88478963c3665ad55b0eec8d02412609239f96353e57122ea55b"
+    },
+    {
+      "path": "output/V2/audio/Centrix_Final_Mix.wav",
+      "provenance": "Original narration + original V2 score/SFX; non-destructive mixing",
+      "bytes": 7776102,
+      "sha256": "074e2fe1ae87953bbf8f2c6dbd1a16dfbf5d0a067d090ce9a392e0c462d217f7"
+    }
+  ]
+}

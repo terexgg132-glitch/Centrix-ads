@@ -1,0 +1,93 @@
+{
+  "auditory_review": "Unavailable: this environment does not support audio audition. No listening review claimed.",
+  "assets": {
+    "centrix_voiceover_original.mp3": {
+      "sha256": "fccd6397f7194a8d85bd4802b60dd311edf5f2376c00596299fe20ffb2cbf6c2",
+      "original_asset_retained": true,
+      "usage": "complete untrimmed resample in the mix"
+    },
+    "centrix_logo_original.svg": {
+      "sha256": "428b1ff3559dd0d2e10e1f2165c861a29fcce4830aa4ec6bf952215aeece16af",
+      "original_asset_retained": true,
+      "usage": "displayed directly from supplied SVG"
+    }
+  },
+  "centrix-behind-the-class-final.mp4": {
+    "duration": 27.0,
+    "video_duration": 27.0,
+    "width": 1080,
+    "height": 1920,
+    "frames": 810,
+    "fps": "30/1",
+    "codec": "h264",
+    "pixel_format": "yuv420p",
+    "color_range": "tv",
+    "audio_codec": "aac",
+    "audio_rate": 48000,
+    "audio_channels": 2,
+    "end_to_end_decode": "pass",
+    "bytes": 3322768
+  },
+  "centrix-behind-the-class-preview.mp4": {
+    "duration": 27.0,
+    "video_duration": 27.0,
+    "width": 540,
+    "height": 960,
+    "frames": 810,
+    "fps": "30/1",
+    "codec": "h264",
+    "pixel_format": "yuv420p",
+    "color_range": "tv",
+    "audio_codec": "aac",
+    "audio_rate": 48000,
+    "audio_channels": 2,
+    "end_to_end_decode": "pass",
+    "bytes": 957025
+  },
+  "centrix-8s-motion-proof.mp4": {
+    "duration": 8.0,
+    "video_duration": 8.0,
+    "width": 1080,
+    "height": 1920,
+    "frames": 240,
+    "fps": "30/1",
+    "codec": "h264",
+    "pixel_format": "yuv420p",
+    "color_range": "tv",
+    "audio_codec": "aac",
+    "audio_rate": 48000,
+    "audio_channels": 2,
+    "end_to_end_decode": "pass",
+    "bytes": 868451
+  },
+  "voice": {
+    "original_seconds": 23.712,
+    "stem_seconds": 23.712,
+    "samples_per_channel": 1138176,
+    "resampled_pcm_max_error": 1.1897584073494727e-07,
+    "resampled_pcm_correlation": 0.9999999999999201,
+    "no_time_stretch_or_trim": true,
+    "recovered_from_stem_sum_max_error": 5.960464477539063e-08
+  },
+  "encoded_audio_correlation": 0.9999915865562639,
+  "master_loudness": {
+    "input_i": "-15.32",
+    "input_tp": "-2.11",
+    "input_lra": "2.40"
+  },
+  "final_hold": {
+    "start_seconds": 23.6,
+    "end_seconds": 27,
+    "mean_absolute_rgb_difference": 0.006595775462962963,
+    "maximum_rgb_difference": 12.0
+  },
+  "contact_sheet_timestamps": [
+    0,
+    6.2,
+    13.07,
+    17.53,
+    19.53,
+    26.0
+  ],
+  "proof_audio_correlation_to_5_5s_mix": 0.9999752669340392
+}

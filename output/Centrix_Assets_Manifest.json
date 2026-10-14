@@ -1,0 +1,41 @@
+{
+  "website_reference": "https://centrix.company/",
+  "reference_date": "2026-10-14",
+  "assets": [
+    {
+      "path": "assets/centrix_voice_original.mp3",
+      "provenance": "User supplied original narration; byte-for-byte preservation; 23.712s; 24kHz mono MP3",
+      "sha256": "fccd6397f7194a8d85bd4802b60dd311edf5f2376c00596299fe20ffb2cbf6c2"
+    },
+    {
+      "path": "assets/centrix_logo_original.svg",
+      "provenance": "User supplied complete brand artwork; exact SVG; intact display",
+      "sha256": "428b1ff3559dd0d2e10e1f2165c861a29fcce4830aa4ec6bf952215aeece16af"
+    },
+    {
+      "path": "public/fonts/Cairo.ttf",
+      "provenance": "Google Fonts Cairo variable font; SIL OFL 1.1; unchanged redistribution permitted by included license",
+      "sha256": "667c987182391c91f4e57a2f455b1794fb5e3ee6ca4ef3383e86bb690fa9c964"
+    },
+    {
+      "path": "public/assets/grain.png",
+      "provenance": "Original deterministic noise texture; generated locally; no third-party imagery",
+      "sha256": "569c0854fa3cd9c277ce2b70051a125d7ebd403daf37521e938c8fd2e3d096cb"
+    },
+    {
+      "path": "output/audio/Centrix_Music_Original.wav",
+      "provenance": "Original minimal synthesized 108 BPM composition; procedural oscillators; no samples; designed ducking",
+      "sha256": "25a83e7bfd55f393295454ea2cbf37a3ba0661d23b6f93e803c9aaeb300b0239"
+    },
+    {
+      "path": "output/audio/Centrix_SFX_Stem.wav",
+      "provenance": "Original cue-synchronized procedural effects; no external samples",
+      "sha256": "648d07973d0944af0cae0c7a7ede770d8148cee108396c5715eea8d1143e6802"
+    },
+    {
+      "path": "output/audio/Centrix_Final_Mix.wav",
+      "provenance": "Original narration + synthesized music and SFX; 48kHz stereo mastered mix",
+      "sha256": "bcacfaec3748aad3350df54d1fb997e39ee5b30e93c87cd827829e46456f14cb"
+    }
+  ]
+}

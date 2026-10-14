@@ -1,0 +1,90 @@
+[
+  {
+    "time": 0,
+    "cue": "Opening heartbeat"
+  },
+  {
+    "time": 0.306,
+    "cue": "Student scanner confirmation"
+  },
+  {
+    "time": 2.7,
+    "cue": "Layered information sweep"
+  },
+  {
+    "time": 4.596,
+    "cue": "Details punctuation"
+  },
+  {
+    "time": 5.983,
+    "cue": "Attendance: rounded confirmation"
+  },
+  {
+    "time": 6.766,
+    "cue": "Collection: glass receipt"
+  },
+  {
+    "time": 7.742,
+    "cue": "Follow-up: soft report stamp"
+  },
+  {
+    "time": 8.7,
+    "cue": "Pre-activation vacuum"
+  },
+  {
+    "time": 8.876,
+    "cue": "Golden thread activation"
+  },
+  {
+    "time": 9.31,
+    "cue": "System lock"
+  },
+  {
+    "time": 10.005,
+    "cue": "Dashboard reveal"
+  },
+  {
+    "time": 10.44,
+    "cue": "Dashboard reveal"
+  },
+  {
+    "time": 10.84,
+    "cue": "Dashboard reveal"
+  },
+  {
+    "time": 11.37,
+    "cue": "Dashboard reveal"
+  },
+  {
+    "time": 12.715,
+    "cue": "Single-system snap to grid"
+  },
+  {
+    "time": 14.685,
+    "cue": "AI question focus"
+  },
+  {
+    "time": 16.236,
+    "cue": "AI response shimmer"
+  },
+  {
+    "time": 16.34,
+    "cue": "AI response shimmer"
+  },
+  {
+    "time": 16.49,
+    "cue": "AI response shimmer"
+  },
+  {
+    "time": 18.526,
+    "cue": "Restrained network riser"
+  },
+  {
+    "time": 21.661,
+    "cue": "Hero brand impact"
+  },
+  {
+    "time": 22.513,
+    "cue": "Tagline glint"
+  }
+]

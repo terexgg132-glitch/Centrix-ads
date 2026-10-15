@@ -1,0 +1,16 @@
+{
+  "file": "centrix-picture-and-score-review.mp4",
+  "sha256": "1889be7d40f48cc6cb48debac19ecc033e645e984081af1f690193d7bf9d9ea9",
+  "duration_seconds": 55.0,
+  "width": 1920,
+  "height": 1080,
+  "frames": 1650,
+  "fps": "30/1",
+  "video_codec": "h264",
+  "pixel_format": "yuv420p",
+  "audio_codec": "aac",
+  "audio_sample_rate": "48000",
+  "audio_channels": 2,
+  "decode_errors": "",
+  "checks_passed": true
+}

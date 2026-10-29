@@ -1,0 +1,5 @@
+centrix-ai-landscape.mp4: 1920x1080, 30/1 fps, 900 frames, 30.000 seconds, 6962197 bytes, h264, decode=PASS
+centrix-ai-portrait.mp4: 1080x1920, 30/1 fps, 900 frames, 30.000 seconds, 6631236 bytes, h264, decode=PASS
+TypeScript: PASS (`npm run typecheck`)
+Visual review: intro, dashboard, attendance, finance, follow-up, and end card checked in both aspect ratios. RTL Arabic and Cairo font rendering checked. Demo data labels and unsent-draft confirmation checked.
+Assets: no missing external media; optional audio disabled in silent exports.

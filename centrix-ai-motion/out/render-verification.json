@@ -1,0 +1,48 @@
+{
+  "project": "Centrix AI",
+  "expected_seconds": 30,
+  "expected_fps": 30,
+  "expected_frames": 900,
+  "videos": {
+    "landscape": {
+      "path": "out/centrix-ai-landscape.mp4",
+      "resolution": [
+        1920,
+        1080
+      ],
+      "duration_seconds": 30.0,
+      "frames": 900,
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "audio_sample_rate": 48000,
+      "audio_channels": 2,
+      "audio_peak": 0.7647,
+      "audio_rms": 0.0455,
+      "size_bytes": 9346022,
+      "passed": true
+    },
+    "portrait": {
+      "path": "out/centrix-ai-portrait.mp4",
+      "resolution": [
+        1080,
+        1920
+      ],
+      "duration_seconds": 30.0,
+      "frames": 900,
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "audio_sample_rate": 48000,
+      "audio_channels": 2,
+      "audio_peak": 0.7647,
+      "audio_rms": 0.0455,
+      "size_bytes": 8323406,
+      "passed": true
+    }
+  },
+  "assets": {
+    "public/audio/music.wav": true,
+    "public/audio/sfx.wav": true,
+    "node_modules/@fontsource/cairo/files": true
+  },
+  "checks_passed": true
+}

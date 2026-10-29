@@ -1,0 +1,23 @@
+{
+  "name": "centrix-ai-ad",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "studio": "remotion studio src/index.ts --no-open",
+    "render:landscape": "remotion render src/index.ts CentrixLandscape render/centrix-ai-landscape.mp4 --codec h264 --crf 18",
+    "render:portrait": "remotion render src/index.ts CentrixPortrait render/centrix-ai-portrait.mp4 --codec h264 --crf 18",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@fontsource/cairo": "^5.2.8",
+    "@remotion/cli": "4.0.539",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "remotion": "4.0.539"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.10",
+    "@types/react-dom": "^19.1.7",
+    "typescript": "^5.9.3"
+  }
+}
